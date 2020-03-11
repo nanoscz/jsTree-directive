@@ -1,0 +1,24 @@
+{
+  "name": "jstreedirective",
+  "version": "0.1.5",
+  "description": "js tree directive",
+  "main": "jsTree.directive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanoscz/jsTree-directive.git"
+  },
+  "keywords": [
+    "jstree",
+    "tree-directive",
+    "jstree-directive"
+  ],
+  "author": "Arvind Ravulavaru <arvind.ravulavaru@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nanoscz/jsTree-directive/issues"
+  },
+  "homepage": "https://github.com/nanoscz/jsTree-directive#readme"
+}
