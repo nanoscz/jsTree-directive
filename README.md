@@ -10,6 +10,11 @@ Install using `bower`
 ```bash
 $ bower i jstree-directive
 ```
+Install using `npm`
+
+```bash
+$ npm i jstree-directive
+```
 
 ### Tutorial 
 
